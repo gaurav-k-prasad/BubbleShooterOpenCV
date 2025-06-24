@@ -13,3 +13,4 @@
 * Right hand index finger controls the angle
 * Left hand controls when to fire. On making a fist the ball shoots
 * Reset after shooting each time by opening the fingers
+* Press "q" to exit
